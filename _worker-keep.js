@@ -1,10 +1,10 @@
 // 环境变量配置(必填)
-let email = "你的sap登录邮箱";      // SAP登录邮箱,直接填写或设置环境变量，变量名：EMAIL
-let password = "你的sap登录密码";   // SAP登录密码,直接填写或设置环境变量，变量名：PASSWORD
+let email = "llxxcc2050@gmail.com";      // SAP登录邮箱,直接填写或设置环境变量，变量名：EMAIL
+let password = "Llxxcc1986@";   // SAP登录密码,直接填写或设置环境变量，变量名：PASSWORD
 
 // 离线重启通知 Telegram配置(可选)
-let CHAT_ID = "";    // Telegram聊天CHAT_ID,直接填写或设置环境变量，变量名：CHAT_ID
-let BOT_TOKEN = "";  // Telegram机器人TOKEN,直接填写或设置环境变量，变量名：BOT_TOKEN
+let CHAT_ID = "7559520670";    // Telegram聊天CHAT_ID,直接填写或设置环境变量，变量名：CHAT_ID
+let BOT_TOKEN = "8477570859:AAHWZ87Qrq1WSMg1Xpfhuc62-o5sWwLqYtE";  // Telegram机器人TOKEN,直接填写或设置环境变量，变量名：BOT_TOKEN
 
 // 应用配置 URL和应用名称配置(必填)
 const MONITORED_APPS = [ // 格式: {url: "应用URL", name: "应用名称"}
